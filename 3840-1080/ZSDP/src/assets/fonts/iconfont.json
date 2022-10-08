@@ -1,0 +1,44 @@
+{
+  "id": "1647944",
+  "name": "大屏项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10487461",
+      "name": "加油站",
+      "font_class": "jiayouzhan",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "6756295",
+      "name": "电话2",
+      "font_class": "dianhua",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "7463933",
+      "name": "地图",
+      "font_class": "ditu",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "12719957",
+      "name": "日期",
+      "font_class": "riqi",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "5870840",
+      "name": "天气-晴",
+      "font_class": "tianqi-qing",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+const IPCONFIG_BASEURL = 'http://192.168.171.110:8843';
